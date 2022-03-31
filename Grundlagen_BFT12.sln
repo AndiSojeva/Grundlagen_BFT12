@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MEthoden_implemtieren", "MEthoden_implemtieren", "{290C6AA3-3CBF-4EF7-8E57-A36CC3BE3A0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methoden_implemtieren", "Methoden_implemtieren\Methoden_implemtieren.csproj", "{6853D32E-F5B9-4026-A08B-90EAF8EAE678}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6853D32E-F5B9-4026-A08B-90EAF8EAE678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6853D32E-F5B9-4026-A08B-90EAF8EAE678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6853D32E-F5B9-4026-A08B-90EAF8EAE678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6853D32E-F5B9-4026-A08B-90EAF8EAE678}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6853D32E-F5B9-4026-A08B-90EAF8EAE678} = {290C6AA3-3CBF-4EF7-8E57-A36CC3BE3A0E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {553D4BAC-5AF1-47D1-9C7E-3041D9EC90D0}
+	EndGlobalSection
+EndGlobal
